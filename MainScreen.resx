@@ -165,7 +165,7 @@
         m10DywfODjoMXrjleuvyba/b1++svDMwFDJ0dzhyeOQu++7kvaR7L+9n3J9/sOkh+mHhI6lH5Y+VHtf9
         qPdj64jlyJlR19G+J0FPHoyxxp7/lP7Th/H8p+Sn5ROqE42TZpOnp9ynbj5b/Wz8eerz+emCn6V/rn6h
         ++K7Xxx/6ZtZNTP+kv9y4dfiV/Kvjrxe9rp71n/28ZvkN/NzhW/l3x59x3jX+z7s/cR85gfsh4qPeh+7
-        Pnl/eriQvLDwG/eE8/s6uL5TAAAACXBIWXMAAA7CAAAOwgEVKEqAAAD1RUlEQVR4Xuz9e3Ad1ZnvDy9p
+        Pnl/eriQvLDwG/eE8/s6uL5TAAAACXBIWXMAAA68AAAOvAGVvHJJAAD1RUlEQVR4Xuz9e3Ad1ZnvDy9p
         XyVtaUuywMQYIxsHh9iQw9FMmCTDxFxCQoKBwJhwD04IAcItDoGQhIxkW8gxwlfwHfsYxyEjysFzfMoF
         ZzzlU375ncFlit8ZV1FF1ZRJUe+pnKH8x6lKvVX8ud/n292PevXaT19W7y1Z2/Sq+pT27rWe9e3V2trq
         77q1UqocAicpL4wSwUnKl+gkOggkvLaBk5QXxkzTqmQ0RI9Gt0YvsbXNf6+X05HqbCWkNjF62z9NcC0A
@@ -20234,6 +20234,9 @@
   </data>
   <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>12, 5</value>
+  </metadata>
+  <metadata name="MouseDrag.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>209, 5</value>
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>32</value>
